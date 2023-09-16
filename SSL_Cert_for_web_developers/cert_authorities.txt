@@ -1,0 +1,5 @@
+-> Root CA vouches for Intermediate CA
+
+-> Intermediate CA vouches for URL public key
+
+-> browser trusts that root ca can trust public key

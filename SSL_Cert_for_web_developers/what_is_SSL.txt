@@ -1,0 +1,33 @@
+- Cert to enable HTTPS for encrypted communication
+
+- Certifies the ownership of a public key
+
+- Used for encryption of traffic
+
+- SSL: Secure Socket layer
+
+- new TLS: Transport Layer Security
+
+- Certs are not dependent on protocols with TLS
+
+- TLS is usually used NOT SSL 
+
+What is in a Cert?
+
+- Org
+- URL
+- State
+- Valid time
+- Issuer
+
+-> stored in a Cert file 
+	- encoded for compression
+
+Purpose
+
+- Encryption (mainly)
+
+- Identity
+
+- Trustworthiness
+

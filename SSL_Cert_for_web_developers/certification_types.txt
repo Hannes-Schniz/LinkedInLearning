@@ -1,0 +1,24 @@
+Domain scope
+
+- Single domain
+
+- Wildcard (*.website.com)
+
+- Multi-domain (website.com/web/net)
+
+- Unified Communications/Subject Alternative Name
+
+Level of valiidation
+
+- Domain validation
+	- validate URL through the owner of whoIs through e-Mail
+
+- Organization validation
+	- confirms the existance of the entity behind the website
+
+- Extended validation
+	- a person contacts the Company and confirms the identity
+
+
+
+

@@ -1,0 +1,4 @@
+- A working website
+- A Domain pointing to said website
+- Access to the Webserver
+- A commandline

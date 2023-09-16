@@ -1,0 +1,25 @@
+Symmetric-Key Cryptography
+
+- Encrypt data using a password
+
+- Decrypt with same password
+
+- enc key = dec key
+
+pro: very fast
+
+con: difficult to transmit key
+
+Public Key Cryptography
+
+- Asymmetric.key cryptography
+
+- pair of math linked numbers
+
+- pub/private key
+
+- Data is encrypted with public key but decrypted only with private key
+
+pro: private Comm in public 
+
+con: slow algos

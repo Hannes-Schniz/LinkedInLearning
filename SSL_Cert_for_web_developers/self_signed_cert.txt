@@ -1,0 +1,9 @@
+- not signed by CA
+
+- you can still encrypt
+
+- no third party trust
+
+- security alert in browser
+
+- used for communication between already trusting systems

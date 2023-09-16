@@ -1,0 +1,6 @@
+S1 A browser send a request to server
+S2 Server returns SSL Cert, public key and some data
+S3 browser confirms SSL Cert
+S4 Browser encrypts a password to Server
+S5 Server decrypts with private key and retrieves password
+=> both Server and browser have passwd for symmertic key cryptography
